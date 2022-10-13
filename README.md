@@ -2,6 +2,7 @@
 
 Primeiro projeto utilizando a linguagem Ruby.
 
+![my_screenshot](https://user-images.githubusercontent.com/100880176/195714846-b222ccff-ebb0-45da-9c10-2eca05c9b33a.jpg)
 
 
 Trata-se de um pequeno questionário onde são inseridos dados sobre um Caderno de Receitas.
